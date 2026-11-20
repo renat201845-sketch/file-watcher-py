@@ -1,0 +1,6 @@
+{
+  "target_dir": "C:\\Users\\renat\\Desktop\\test_watch",
+  "interval_seconds": 3,
+  "log_file": "watcher.log",
+  "extensions": []
+}
